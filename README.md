@@ -31,6 +31,7 @@ This project demonstrates backend design, API structure, role-based access contr
 ---
 
 ## Folder Structure 
+```
 src/
 ├── config/
 │   └── db.js
@@ -66,8 +67,7 @@ src/
 │   └── user.validator.js
 ├── app.js
 └── server.js
-
----
+```
 
 Installation and Setup
 
