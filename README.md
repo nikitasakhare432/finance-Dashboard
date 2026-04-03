@@ -30,13 +30,7 @@ This project demonstrates backend design, API structure, role-based access contr
 
 ---
 
-## Folder Structure
-# Finance Data Processing and Access Control Backend
-
-A backend system for managing financial records, users, roles, and dashboard analytics.
-
-This project demonstrates backend design, API structure, role-based access control, validation, pagination, and dashboard data aggregation.
- 
+## Folder Structure 
 src/
 ├── config/
 │   └── db.js
